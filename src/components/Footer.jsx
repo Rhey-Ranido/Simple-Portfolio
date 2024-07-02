@@ -15,7 +15,7 @@ const iconSize = "30px"
         <FaInstagram className="icon" size={iconSize}/>
         <FaLinkedin  className="icon" size={iconSize}/>
       </div>
-      <p>Copyright ©2020 All rights reserved</p>
+      <p>Rhey ©2024 All rights reserved</p>
     </footer>
   )
 }
